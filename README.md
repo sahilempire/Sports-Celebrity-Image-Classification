@@ -52,15 +52,15 @@ The Sports Celebrity Image Classification project is a machine learning-based ap
 
 - Replace `path/to/dataset` with the path to your prepared dataset and `path/to/save/model` with the desired path to save the trained model.
 
-For detailed usage instructions and options, refer to the [User Guide](docs/user-guide.md).
+Refer to the [User Guide](docs/user-guide.md) for detailed usage instructions and options.
 
 ## Dataset
 
-Please note that the dataset used in this project is not provided in this repository. You need to collect and prepare your own dataset of sports celebrity images for training and evaluation.
+Please note that the dataset used in this project is not provided in this repository. You need to collect and prepare your dataset of sports celebrity images for training and evaluation.
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request. 
 
 ## License
 
